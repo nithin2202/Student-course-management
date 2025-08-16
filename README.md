@@ -50,7 +50,7 @@ student-course-management/<br>
 
 **Clone the repository:**
 
-git clone https://github.com/your-username/student-course-management.git
+git clone https://github.com/nithin2202/student-course-management.git
 cd student-course-management/backend
 
 
