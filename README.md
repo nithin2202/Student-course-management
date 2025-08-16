@@ -34,8 +34,8 @@ student-course-management/<br>
 │   ├── src/main/java    # Java source files <br>
 │   ├── src/main/resources/application.properties<br>
 │   └── pom.xml<br>
-│
-│── frontend/            # React project
+│<br>
+│── frontend/            # React project<br>
 │   ├── public/          
 │   ├── src/             
 │   │   ├── components/  # Reusable components<br>
