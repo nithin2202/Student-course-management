@@ -1,0 +1,15 @@
+#linear{
+    background: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(199, 87, 197, 1) 57%, rgba(237, 221, 83, 1) 100%);
+}
+input,textarea{
+    background-color: white;
+
+}
+/* #back{
+    background-image: url("D:\j spiders\frontend\project\student\src\assets\home1.jpg");
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    width: "70%";
+
+} */
