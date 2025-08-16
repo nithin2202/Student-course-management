@@ -28,9 +28,9 @@ Database:
 
 MySQL
 
-📂 Project Structure
-student-course-management/
-│── backend/            
+📂 Project Structure<br>
+student-course-management/<br>
+│── backend/            <br>
 │   ├── src/main/java    # Java source files <br>
 │   ├── src/main/resources/application.properties<br>
 │   └── pom.xml<br>
@@ -115,5 +115,5 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
 👨‍💻 Author
 
-Your Name
-🔗 LinkedIn | GitHub
+NithinKumar Kamatam<br>
+🔗  linkedin [https://www.linkedin.com/in/nithin-kumar-7ba119287] | GitHub [https://github.com/nithin2202]
